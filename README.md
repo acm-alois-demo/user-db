@@ -5,6 +5,7 @@ The provided deployment files create a database in either a staging or productio
 
 ## Usage
 Inside either the `staging` or `production` folder
+
 ```
 kubectl create -f .
 ```
