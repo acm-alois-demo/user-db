@@ -9,3 +9,4 @@ Inside either the `staging` or `production` folder
 ```
 kubectl create -f .
 ```
+
